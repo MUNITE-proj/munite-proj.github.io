@@ -1,0 +1,22 @@
+{
+  "name": "munite-project-page",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "npm run waveforms && npm run math && node scripts/prerender.mjs",
+    "predev": "npm run render",
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs --dist",
+    "build": "npm run waveforms && npm run math && node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "math": "node scripts/compile-math.mjs",
+    "waveforms": "node scripts/compile-waveforms.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@mathjax/src": "4.1.3"
+  }
+}

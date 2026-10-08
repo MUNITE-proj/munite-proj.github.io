@@ -1,0 +1,5 @@
+MathJax 4.1.3 and MathJax New Computer Modern 4.1.3.
+SVG mathematical outlines are compiled from these Apache-2.0-licensed packages.
+https://github.com/mathjax/MathJax-src
+https://github.com/mathjax/MathJax-fonts
+The original TeX expressions are in scripts/math-expressions.mjs.

@@ -1,0 +1,455 @@
+{
+  "method": "Equal-time maximum absolute amplitude; linear per-clip peak normalization; all frames included; source WAV unchanged.",
+  "records": [
+    {
+      "id": 13,
+      "path": "assets/waveforms/A13.svg",
+      "source": "assets/audio/A13.wav",
+      "source_sha256": "5720f4abf0dcb50afaaade8bfa21205809a67860c28e4374f15f0fd6a160ddc6",
+      "sha256": "a1fff099d3971ea4b258ac6dcf84f6c66d64143df9af3fe3e34c58f86ae6ea13",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.29443359375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 14,
+      "path": "assets/waveforms/A14.svg",
+      "source": "assets/audio/A14.wav",
+      "source_sha256": "f070358279c27c46b028ed424461501e3ea7578fc1806009e64dec9a474770c6",
+      "sha256": "e826042440a6eac11da5b727250013877ca6a780cf18d6c42b6e4428a65d9cb8",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.56298828125,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 15,
+      "path": "assets/waveforms/A15.svg",
+      "source": "assets/audio/A15.wav",
+      "source_sha256": "a275452ad1f4db367f785a52951d4baf12965f9365aaaf09dd45aacce611e7cc",
+      "sha256": "56a6891ac3138fb404065f4ceb2b00e5cd24270c3d2d06afb4d07cf6ee02ff04",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.5380859375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 16,
+      "path": "assets/waveforms/A16.svg",
+      "source": "assets/audio/A16.wav",
+      "source_sha256": "a400d46f96661737ed0d0d8b7007181637a8a70d851f790fa545b7349fd94b4a",
+      "sha256": "3a9825fb1de4d4665b7e63e57fa48ded573b2f13838502794a5b2ec0c5465e73",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.2320556640625,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 17,
+      "path": "assets/waveforms/A17.svg",
+      "source": "assets/audio/A17.wav",
+      "source_sha256": "8cda4d483d192cb3c9f029d1bebc6567e9bf4bf3bfd42088a258e1e09ccc3e2b",
+      "sha256": "91ea1e71f84c3f22fde386027ee95e3d6f8e8937648c77a3263da4fcc47ade42",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.158935546875,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 18,
+      "path": "assets/waveforms/A18.svg",
+      "source": "assets/audio/A18.wav",
+      "source_sha256": "7dc14ca38521a47e0d29dd18024a4d06b870e32612d97988a084c311d6c06f6b",
+      "sha256": "ffa58fb63a6d49c19786ec7a3e650b7b8aea123637c1e090c84ef20df357bbce",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.033905029296875,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 19,
+      "path": "assets/waveforms/A19.svg",
+      "source": "assets/audio/A19.wav",
+      "source_sha256": "75fb853569f40150906edacc2180990dd2899b58802a79b7161b12eef65a8d59",
+      "sha256": "ea3ff5ca000480d53b34283387931eb3d6f2690df3c69eb3286c7f59f83f3aa1",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.495849609375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 20,
+      "path": "assets/waveforms/A20.svg",
+      "source": "assets/audio/A20.wav",
+      "source_sha256": "70a9e46424072d3d20e7ddf51be82b1189d787dd4acb0edec75b9bab0095370a",
+      "sha256": "aa350b9c089482eea8e82f78d24a948a3a6db46f25afb031326be6c9d3b5b636",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.822265625,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 21,
+      "path": "assets/waveforms/A21.svg",
+      "source": "assets/audio/A21.wav",
+      "source_sha256": "67774c47196abee24c5789082224fd3ccb85ab041e24e19ab3c7246de1a8ce79",
+      "sha256": "b200329b7b87344e1466a3a7b78b97c8679081e56f84fecb213a520d17939b16",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.331787109375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 22,
+      "path": "assets/waveforms/A22.svg",
+      "source": "assets/audio/A22.wav",
+      "source_sha256": "8107c1036989dc830a621824f4c77a1fd5ac3c210d40cce1a86685acfd579268",
+      "sha256": "aed8c7477bea9b63249871d00b38c24b75216f658f4c74c2b99a555a3582af9b",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.2646484375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 23,
+      "path": "assets/waveforms/A23.svg",
+      "source": "assets/audio/A23.wav",
+      "source_sha256": "2c8434da7125a6128d40632c693c13996dd5ede082609b958c13bacdbb59d958",
+      "sha256": "4fdb438f0f2a0210acff7d214ca4295762c5ef033aa678c960e28e893ca2998e",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.4833984375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 24,
+      "path": "assets/waveforms/A24.svg",
+      "source": "assets/audio/A24.wav",
+      "source_sha256": "3f67ec4a377c2c052ce8e90a3bbef8c0546f05682a295e10ff0dac3d0d15a673",
+      "sha256": "e16b22bc66519a254f7177953ea4b30279d43a71d9a14bfb2ec2da2f3f559feb",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.5009765625,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 25,
+      "path": "assets/waveforms/A25.svg",
+      "source": "assets/audio/A25.wav",
+      "source_sha256": "b868ff619cc1f6a1ec308fc6b8e787b9a139cbf323418dc1c7500ee5f74d4475",
+      "sha256": "235efb011b6d49e506084ab9525be80bc7ecca61cb67c1054417a0baa6621b72",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.1651611328125,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 26,
+      "path": "assets/waveforms/A26.svg",
+      "source": "assets/audio/A26.wav",
+      "source_sha256": "47f7f6e16d99247283627266aa6c7d747a0cc6d89dcabeddab8d4547646f5184",
+      "sha256": "df0a6c01cf601e54bc9b36a7dae20711743d30fc67f28234bdf24e734129c10d",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.9951171875,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 27,
+      "path": "assets/waveforms/A27.svg",
+      "source": "assets/audio/A27.wav",
+      "source_sha256": "92e844349c31b32d2065f4bb233372a5dc5680ec98e0d60aa55928add03a8568",
+      "sha256": "b3da3d445ffbf5b7ed4742b85963b1000ee8bd47385b8c60fc0b9a66e86d147a",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.429443359375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 28,
+      "path": "assets/waveforms/A28.svg",
+      "source": "assets/audio/A28.wav",
+      "source_sha256": "a20f962b67a9bab82a6552a6222f77e3a28ed8791e8f4053c5e44a1465ec1e10",
+      "sha256": "333c13ff334e35864ab12e0fcbd5ea01e0ed7f877fd0e4ca72d7de0eaa3cf8ea",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.3720703125,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 29,
+      "path": "assets/waveforms/A29.svg",
+      "source": "assets/audio/A29.wav",
+      "source_sha256": "a5ce8f9304444488e398183f3d1fa3e542bcecc580a78e0b58c43d666fb3bc71",
+      "sha256": "4c6e3840a20c7eec36778564bba601a62afb559302f63d3e917c6bb97db27fd7",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.8701171875,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 30,
+      "path": "assets/waveforms/A30.svg",
+      "source": "assets/audio/A30.wav",
+      "source_sha256": "a3440190f81db3c8d40a4fd21a0fe33728994f3b449bfc624e69ec12a1aaa164",
+      "sha256": "4e07aee4f03ed1ea009330a345c89abc5a00508c25449efafa26a69b17cf3885",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.11798095703125,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 31,
+      "path": "assets/waveforms/A31.svg",
+      "source": "assets/audio/A31.wav",
+      "source_sha256": "98f5be7ac2753780259d56c67d7925cd92363e0faca60763a10b0020e9c8aebb",
+      "sha256": "a71b113d1a80d40e054b634c0bef94e7371c65d4c6b07de566a69a53f71df8e2",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.333740234375,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 32,
+      "path": "assets/waveforms/A32.svg",
+      "source": "assets/audio/A32.wav",
+      "source_sha256": "5ab8f8382bb72ef83cf0f60ea421b1fbcba5cf8d57b63286a90bf68ed6aec2a4",
+      "sha256": "807f77295b9c552db14b9743f21fc049d595e3bc6b6c0fac411a87055e5f4183",
+      "frames": 81920,
+      "sample_rate": 16000,
+      "duration_seconds": 5.12,
+      "peak_amplitude": 0.35205078125,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 33,
+      "path": "assets/waveforms/A33.svg",
+      "source": "assets/audio/A33.wav",
+      "source_sha256": "16c0e1b941167bf2fe521fb9c0f74d2c43f8bf4e85340382fb43f9c2fdb941b3",
+      "sha256": "b8bf77e3abf6c0ee011a53ee65012a45b6a7f8b522d3704e24a93c0d6fd5a6d1",
+      "frames": 160000,
+      "sample_rate": 16000,
+      "duration_seconds": 10,
+      "peak_amplitude": 1.0003454685211182,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 34,
+      "path": "assets/waveforms/A34.svg",
+      "source": "assets/audio/A34.wav",
+      "source_sha256": "fb0b79de5bffa6d283defaac30eca464b3e15bd1e54672823612ef2c502c769b",
+      "sha256": "9e5cfec30c987d5462f15b424aa5c1fb02ef35745effd8509b7098e6cb54c282",
+      "frames": 146894,
+      "sample_rate": 16000,
+      "duration_seconds": 9.180875,
+      "peak_amplitude": 0.8062605261802673,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 35,
+      "path": "assets/waveforms/A35.svg",
+      "source": "assets/audio/A35.wav",
+      "source_sha256": "6086b6a0b18bf6679bc156a6db16532aa61aa4cae3939e3bd39ce09c54583e63",
+      "sha256": "e84f6060c7955c9094294fff292e149bd58e8fa4511d9c33c4a00bc96a06e3cc",
+      "frames": 160000,
+      "sample_rate": 16000,
+      "duration_seconds": 10,
+      "peak_amplitude": 0.3539392948150635,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 36,
+      "path": "assets/waveforms/A36.svg",
+      "source": "assets/audio/A36.wav",
+      "source_sha256": "7abc6ec5adf2508e07ce0c14dd091a6a965342203af206a00a977c559640febc",
+      "sha256": "f3c4aeb7618f200da54d0deabb5e5d660a3ecd1f74a23907c729ca134281f5b4",
+      "frames": 160000,
+      "sample_rate": 16000,
+      "duration_seconds": 10,
+      "peak_amplitude": 0.7237071394920349,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    },
+    {
+      "id": 37,
+      "path": "assets/waveforms/A37.svg",
+      "source": "assets/audio/A37.wav",
+      "source_sha256": "3cf4119d0b3347b93209b357f0746ea0e81f13eba6f2219249c493cebfac025f",
+      "sha256": "9fd39faa20ea6ff2e1188be95459e62f21001ea29ec81b601433c7a8d79ae18d",
+      "frames": 160000,
+      "sample_rate": 16000,
+      "duration_seconds": 10,
+      "peak_amplitude": 0.6897140145301819,
+      "bins": 128,
+      "viewBox": [
+        0,
+        0,
+        768,
+        144
+      ]
+    }
+  ]
+}

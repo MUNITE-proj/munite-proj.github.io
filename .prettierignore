@@ -1,0 +1,8 @@
+node_modules/
+dist/
+assets/
+index.html
+scripts/generated/
+audio-data.js
+package-lock.json
+scripts/social-preview.svg

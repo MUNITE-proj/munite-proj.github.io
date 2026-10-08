@@ -1,0 +1,3967 @@
+[
+  {
+    "path": "assets/poly/digit-muni-0.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Digit 1",
+    "method": "muni",
+    "view": 0,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im13",
+      "resource": "/Im13",
+      "xref": 219,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        149.591248,
+        524.786203
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 1,
+      "column_left_to_right_zero_based": 0
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "10051a15c65d6c7f8e370e54b2c596fce8fbd1385991d0f1b7be3d0cc9425776",
+    "source_decoded_rgb_sha256": "10051a15c65d6c7f8e370e54b2c596fce8fbd1385991d0f1b7be3d0cc9425776",
+    "sha256": "81faf4da5afc384ba0b8cd8c3ac6facb6cdadd6107c5e5f2ef45ccf8b9d9954d",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/digit-muni-1.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Digit 1",
+    "method": "muni",
+    "view": 1,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im14",
+      "resource": "/Im14",
+      "xref": 220,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        176.690061,
+        524.786203
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 1,
+      "column_left_to_right_zero_based": 1
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "c123d908c69ddb71850b4b0d492815dac1aab89958ce631abaafaba78e875110",
+    "source_decoded_rgb_sha256": "c123d908c69ddb71850b4b0d492815dac1aab89958ce631abaafaba78e875110",
+    "sha256": "19ebf1ad5a7cb72646eea4832b56d5228d410d5deff49ea10a76a7e48ba0919b",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/digit-muni-2.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Digit 1",
+    "method": "muni",
+    "view": 2,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im15",
+      "resource": "/Im15",
+      "xref": 221,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        203.789874,
+        524.786203
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 1,
+      "column_left_to_right_zero_based": 2
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "2efd21a4dd90e6ad4baa0b2aa801ae6ec446e813134ec2f0695adf25c9648a6f",
+    "source_decoded_rgb_sha256": "2efd21a4dd90e6ad4baa0b2aa801ae6ec446e813134ec2f0695adf25c9648a6f",
+    "sha256": "b197365f11900ffe96d95ee6ee14dc9e2f98c69f0b9a297d400701105a589d54",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/digit-munite-0.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Digit 1",
+    "method": "munite",
+    "view": 0,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im22",
+      "resource": "/Im22",
+      "xref": 228,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        408.428013,
+        524.786203
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 1,
+      "column_left_to_right_zero_based": 9
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "2c7611868fd05acf8b1b7ee9093818dd4d58ca92ec0ee07872a3ca453fd9c3d5",
+    "source_decoded_rgb_sha256": "2c7611868fd05acf8b1b7ee9093818dd4d58ca92ec0ee07872a3ca453fd9c3d5",
+    "sha256": "59d8e538baa8f906637b41164a01e05a6cd7f96d2dd13cc43d1dd75e5398c36b",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/digit-munite-1.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Digit 1",
+    "method": "munite",
+    "view": 1,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im23",
+      "resource": "/Im23",
+      "xref": 229,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        435.527826,
+        524.786203
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 1,
+      "column_left_to_right_zero_based": 10
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "83c95ef28369a655baf1f407892baf0621175fa175cca958bd714d906d95f679",
+    "source_decoded_rgb_sha256": "83c95ef28369a655baf1f407892baf0621175fa175cca958bd714d906d95f679",
+    "sha256": "a19eceb3ae8b3dfdd6ea5a19bb1afddd0be9749c1c397b4573920c5cb4bdd949",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/digit-munite-2.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Digit 1",
+    "method": "munite",
+    "view": 2,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im24",
+      "resource": "/Im24",
+      "xref": 230,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        462.626638,
+        524.786203
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 1,
+      "column_left_to_right_zero_based": 11
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "3c86c4571cd1398cc26c1bd5fef8bb5c29e287061750c78aaaad9496dfa75c1c",
+    "source_decoded_rgb_sha256": "3c86c4571cd1398cc26c1bd5fef8bb5c29e287061750c78aaaad9496dfa75c1c",
+    "sha256": "d19a67e2e008bf5f7559d3fcef929c67241e19871007d38180f9156bc45d8bee",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/quadrant-muni-0.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Bottom-left quadrant",
+    "method": "muni",
+    "view": 0,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im145",
+      "resource": "/Im145",
+      "xref": 351,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        149.591248,
+        212.763843
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 12,
+      "column_left_to_right_zero_based": 0
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "dfeb238a31fa5be115531779067c94567971dac8bd0b06eb5bfaf953b2f28c3d",
+    "source_decoded_rgb_sha256": "dfeb238a31fa5be115531779067c94567971dac8bd0b06eb5bfaf953b2f28c3d",
+    "sha256": "9123aef4ff6813b8ae507d809a98f2dea93f7ee8d4cdfc7ebbd340ce93dc158e",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/quadrant-muni-1.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Bottom-left quadrant",
+    "method": "muni",
+    "view": 1,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im146",
+      "resource": "/Im146",
+      "xref": 352,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        176.690061,
+        212.763843
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 12,
+      "column_left_to_right_zero_based": 1
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "893c269554a2770700cedb90773dcff2757c3629da618549d3a854d283d37ca5",
+    "source_decoded_rgb_sha256": "893c269554a2770700cedb90773dcff2757c3629da618549d3a854d283d37ca5",
+    "sha256": "e880b817df41bd0e7b5c2f8c32a8ab366fc2d520d72f6b155e888a10da94d03c",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/quadrant-muni-2.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Bottom-left quadrant",
+    "method": "muni",
+    "view": 2,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im147",
+      "resource": "/Im147",
+      "xref": 353,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        203.789874,
+        212.763843
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 12,
+      "column_left_to_right_zero_based": 2
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "67b8205d689a32461e21b921f52244c88c950c69503f7fbfbe92c9ba1581cecb",
+    "source_decoded_rgb_sha256": "67b8205d689a32461e21b921f52244c88c950c69503f7fbfbe92c9ba1581cecb",
+    "sha256": "fbcb6000d43bc9570d5c5bc529f12efbffff3b68f26a01510a6a236f6394e1aa",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/quadrant-munite-0.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Bottom-left quadrant",
+    "method": "munite",
+    "view": 0,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im154",
+      "resource": "/Im154",
+      "xref": 360,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        408.428013,
+        212.763843
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 12,
+      "column_left_to_right_zero_based": 9
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "a03f79c24a2e057b972de8207859583336c8207d52fefae982ba59701645486e",
+    "source_decoded_rgb_sha256": "a03f79c24a2e057b972de8207859583336c8207d52fefae982ba59701645486e",
+    "sha256": "ca75079c0b11606a6c14e9dbb82a2bd3933db5c24f3045771629b216a8f202fb",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/quadrant-munite-1.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Bottom-left quadrant",
+    "method": "munite",
+    "view": 1,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im155",
+      "resource": "/Im155",
+      "xref": 361,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        435.527826,
+        212.763843
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 12,
+      "column_left_to_right_zero_based": 10
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "ab7ab2ebbb1a110e32bc61b8245095447a75845d0b52fa3a8c0905291b020c64",
+    "source_decoded_rgb_sha256": "ab7ab2ebbb1a110e32bc61b8245095447a75845d0b52fa3a8c0905291b020c64",
+    "sha256": "959eef2dfe323d511437c6680b8b425324588aca358da3c54fa517d5a0f8a04b",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/poly/quadrant-munite-2.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 25,
+    "figure": 6,
+    "conditioning": "Bottom-left quadrant",
+    "method": "munite",
+    "view": 2,
+    "source_pdf_sha256": "3369500866530d12bafd3eb89c10c73c2eef5e3c6166dc3702e7f394b0aa9bdf",
+    "source_image_object": {
+      "resource_path": "/Im6 -> /Im156",
+      "resource": "/Im156",
+      "xref": 362,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode",
+      "placement_ctm": [
+        26.101263,
+        0,
+        0,
+        26.101263,
+        462.626638,
+        212.763843
+      ]
+    },
+    "source_figure_position": {
+      "grid_rows": 14,
+      "grid_columns": 12,
+      "row_top_to_bottom_zero_based": 12,
+      "column_left_to_right_zero_based": 11
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "d53a566259f7e9d53d1afe341f19b4bcc1cdba52f8432bff6048946e70e54945",
+    "source_decoded_rgb_sha256": "d53a566259f7e9d53d1afe341f19b4bcc1cdba52f8432bff6048946e70e54945",
+    "sha256": "e4d4499244222b3bf1258b53fcd1aad1509d025f9a78924547519ab8a05b205c",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-0-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 0–2",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im1",
+      "xref": 581,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "33831b220460bd0d33365fe68b7192963b50d96660dd8575d96b2bab5013ca0a",
+    "source_decoded_rgb_sha256": "33831b220460bd0d33365fe68b7192963b50d96660dd8575d96b2bab5013ca0a",
+    "sha256": "9738899e3685feb17c97ef33620e21cef6350f545adbb5090cb2b7ab5a683f47",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-0-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 0–2",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im2",
+      "xref": 582,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "ef1123f8299c99743935666cee871c53a01e0f15c8d5d2494284292e455ba0f6",
+    "source_decoded_rgb_sha256": "ef1123f8299c99743935666cee871c53a01e0f15c8d5d2494284292e455ba0f6",
+    "sha256": "a87969715b679eb379fab5bfcdffb67c610cbd65b05588637fffe317633ff3da",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-0-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 0–2",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im3",
+      "xref": 583,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "edbf01a554a7cc62e301185b7aadaba67b9e43cbe5df1a386de44f4b1282db6a",
+    "source_decoded_rgb_sha256": "edbf01a554a7cc62e301185b7aadaba67b9e43cbe5df1a386de44f4b1282db6a",
+    "sha256": "ad2ab0c90913df06e1f1fa600e6e3bb34f63f7074485e164a8cacdf11b822e23",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-0-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 0–2",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im10",
+      "xref": 590,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "4ac5fecd5fd47cbdddd355307d68881432c96be6ce4163bfdf5455c676c8c423",
+    "source_decoded_rgb_sha256": "4ac5fecd5fd47cbdddd355307d68881432c96be6ce4163bfdf5455c676c8c423",
+    "sha256": "b24691453dddeed7029e1cc5dca48cd14fc7da664eaf22898b6d4624c9e26746",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-0-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 0–2",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im11",
+      "xref": 591,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "41a0fa14c543b8c5a134c84eeb4a4b25ce1c3e568231d313294c3dd05fa1a301",
+    "source_decoded_rgb_sha256": "41a0fa14c543b8c5a134c84eeb4a4b25ce1c3e568231d313294c3dd05fa1a301",
+    "sha256": "6eb26c314c16f4432919b913148f6a252dcca12f8cc83525fe5619ccaa10dc80",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-0-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 0–2",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im12",
+      "xref": 592,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "55403a822cbda1ce9492b759ce4dd1ff2a63f549ca3d606573c519ae4bbc8150",
+    "source_decoded_rgb_sha256": "55403a822cbda1ce9492b759ce4dd1ff2a63f549ca3d606573c519ae4bbc8150",
+    "sha256": "17f7a8f13881a133f136f5cb5b85d3d8e42fa40e6ee5dbdbd9b7bd82f372edd3",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-2-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im25",
+      "xref": 605,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "d56607f84ec91eaf2c2981acd1fb68fbae8c504bdc118366a0769109eae92c03",
+    "source_decoded_rgb_sha256": "d56607f84ec91eaf2c2981acd1fb68fbae8c504bdc118366a0769109eae92c03",
+    "sha256": "e454a84922a67ad4c6f500b108bb45a53681696f107ebc8c507dae16524c1cc3",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-2-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im26",
+      "xref": 606,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "07582b6c1fe2bbb8cf75630ac5dc5430c74a8dc5ea9c32f22017c0ea9fd3b108",
+    "source_decoded_rgb_sha256": "07582b6c1fe2bbb8cf75630ac5dc5430c74a8dc5ea9c32f22017c0ea9fd3b108",
+    "sha256": "9d17e059bf4cc5820244e5cc8f5df386da1d9d4e0b9eaecfa89591660d3694b0",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-2-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im27",
+      "xref": 607,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "547d0bd088ab2a36dab225ca94dce0ba8a4d19009a3f9464f63b38635ddd120f",
+    "source_decoded_rgb_sha256": "547d0bd088ab2a36dab225ca94dce0ba8a4d19009a3f9464f63b38635ddd120f",
+    "sha256": "6b48fe985ef5211fec67826a50e4c9b395ed2bd2e72cf5cb7b742989a88549b0",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-2-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im34",
+      "xref": 614,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "7d94ecd2401ef1ffa6c29a80d321045ff9c412d29fbf1911fe8b100568710c82",
+    "source_decoded_rgb_sha256": "7d94ecd2401ef1ffa6c29a80d321045ff9c412d29fbf1911fe8b100568710c82",
+    "sha256": "2bd83ff3b723015e07a6c13e891bcf92153eee43ac2a2272c4dac99364d0216e",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-2-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im35",
+      "xref": 615,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "b30a6efda04c6c038cbed44cd166d8d29567ef640bb5c81a2ebd4d60694be91e",
+    "source_decoded_rgb_sha256": "b30a6efda04c6c038cbed44cd166d8d29567ef640bb5c81a2ebd4d60694be91e",
+    "sha256": "fa5ada709368ad2817e3776afd8e7baba0254b90b2af78ad591c855d38b02620",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-2-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im36",
+      "xref": 616,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "e4e8cc4a0f24bf55b938d664fda54755834c7af79e76137ba47f20ec0e1957bb",
+    "source_decoded_rgb_sha256": "e4e8cc4a0f24bf55b938d664fda54755834c7af79e76137ba47f20ec0e1957bb",
+    "sha256": "41e0ae0a5446e2db9c4862fd460168f32fda095c37e87231bac5a44708a71399",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-5-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 40–49",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im61",
+      "xref": 641,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "ea6c3d68f3ca908a92601ee0f315e91762878b5cad82017ecb2be3c638860611",
+    "source_decoded_rgb_sha256": "ea6c3d68f3ca908a92601ee0f315e91762878b5cad82017ecb2be3c638860611",
+    "sha256": "dc32fd373120b49e8ae78194b565d1a49e09a5a64b889bffb3edd6f3633da7c9",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-5-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 40–49",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im62",
+      "xref": 642,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "dc6a89edaa6e733dbede32521d750024908c896cbead80be886405f267e64125",
+    "source_decoded_rgb_sha256": "dc6a89edaa6e733dbede32521d750024908c896cbead80be886405f267e64125",
+    "sha256": "c38994a36a85aa267db5a5c7e6dfa7da325e0d8bb24a036f0b2a4aca7e0c5390",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-5-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 40–49",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im63",
+      "xref": 643,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "0a8c80327d06c8a5bb932b320deaebd69f437cd4ea65f4bcab27e176aeb11984",
+    "source_decoded_rgb_sha256": "0a8c80327d06c8a5bb932b320deaebd69f437cd4ea65f4bcab27e176aeb11984",
+    "sha256": "6c0c482b8f4e97844a18d32fa132eee3a42d4dd4966f84085e84df8432187e29",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-5-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 40–49",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im70",
+      "xref": 650,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "76332df6ffa5417053beacc6b99b8d58e509ca46453094b4b99420a7d2464eb1",
+    "source_decoded_rgb_sha256": "76332df6ffa5417053beacc6b99b8d58e509ca46453094b4b99420a7d2464eb1",
+    "sha256": "a706979981ce73a781f5d2f8ed9d2501eba295546bf2a4876fe00fa939ea09c4",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-5-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 40–49",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im71",
+      "xref": 651,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "8fd89100b18e758d2356936c96fe2898b6e990fdef6e51db25006962f4a8457d",
+    "source_decoded_rgb_sha256": "8fd89100b18e758d2356936c96fe2898b6e990fdef6e51db25006962f4a8457d",
+    "sha256": "d82909de7ae6b7f29189f36850da8b8f4884fd37cba8d1c73b28a88c2c633b87",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-5-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 40–49",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im72",
+      "xref": 652,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "83c8097b5d5a980e16ed9b41678fc466e5719f2465ce97ebec2505cbdc502a74",
+    "source_decoded_rgb_sha256": "83c8097b5d5a980e16ed9b41678fc466e5719f2465ce97ebec2505cbdc502a74",
+    "sha256": "324e51dd2184e87dc8e65e885a397edee40d27ddfeedf082dbe8522e74553eb9",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-7-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 70+",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im85",
+      "xref": 665,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "4c09b9ffa7953404e0e4244739d6a7c127c00a89541e8588f109acc8c01a48a2",
+    "source_decoded_rgb_sha256": "4c09b9ffa7953404e0e4244739d6a7c127c00a89541e8588f109acc8c01a48a2",
+    "sha256": "d920112dad4c8de5587082b37552cbca61546366defb905910db6eed81d17802",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-7-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 70+",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im86",
+      "xref": 666,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "da2f7dc7e35deeb4e3b17b9de99c906bcd2947cdc30640e67d868e2258935617",
+    "source_decoded_rgb_sha256": "da2f7dc7e35deeb4e3b17b9de99c906bcd2947cdc30640e67d868e2258935617",
+    "sha256": "b3edb0d244dcc9ca9b592dde29eef03f60aa89a81b284d0036a7893dd0059382",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-7-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 70+",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im87",
+      "xref": 667,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "b6b931b6202d53a2e060213a1ec0f24003413456042011252834b1ab334817fd",
+    "source_decoded_rgb_sha256": "b6b931b6202d53a2e060213a1ec0f24003413456042011252834b1ab334817fd",
+    "sha256": "c8fe9b384e0870c6bd2a6d0e94a524b1f5766843505fdc3566c92a15ff717510",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-7-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 70+",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im94",
+      "xref": 674,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "c8032e4bb722b4c6d188d210f4ece654576011536b1acc98f63c13ad9770621b",
+    "source_decoded_rgb_sha256": "c8032e4bb722b4c6d188d210f4ece654576011536b1acc98f63c13ad9770621b",
+    "sha256": "15a708be319ec4879f675ddd75a034476ae541ae0018c40c56e365614e200123",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-7-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 70+",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im95",
+      "xref": 675,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "38ff50de81fe1b7d6e876918a8412edcb895b949c4a60e9a407115b0aa2c60a0",
+    "source_decoded_rgb_sha256": "38ff50de81fe1b7d6e876918a8412edcb895b949c4a60e9a407115b0aa2c60a0",
+    "sha256": "a3da85722d54cf1056d0ff97069728f9c00e45b797853d78194294cc51deea9c",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-7-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 70+",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im96",
+      "xref": 676,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "b125ce095bf80ac41482ae0e0964891d89e8307343fccd3de8ae1c7fe09208b8",
+    "source_decoded_rgb_sha256": "b125ce095bf80ac41482ae0e0964891d89e8307343fccd3de8ae1c7fe09208b8",
+    "sha256": "7f8f4b3a0c8b0d0ed793747baf254868d1ffe3dab36ae974514ab837b1a3f8a0",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/multimodal/Im12-Im1.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im1",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im11.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im11",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im12.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im12",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im13.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im13",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im14.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im14",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im15.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im15",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im2.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im2",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im3.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im3",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im4.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im4",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im12-Im5.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im12//Im5",
+    "figure": 12,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im1.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im1",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im11.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im11",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im12.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im12",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im13.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im13",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im14.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im14",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im15.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im15",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im2.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im2",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im26.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im26",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im27.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im27",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im28.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im28",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im29.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im29",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im3.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im3",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im30.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im30",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im4.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im4",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/Im13-Im5.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "key": "/Im13//Im5",
+    "figure": 13,
+    "method": "MUNITE"
+  },
+  {
+    "path": "assets/multimodal/audio-13.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A13",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      143.96,
+      156,
+      197.75,
+      167
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-14.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A14",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      216.89,
+      156,
+      270.68,
+      167
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-15.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A15",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      289.81,
+      156,
+      343.61,
+      167
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-16.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A16",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      362.74,
+      156,
+      416.54,
+      167
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-17.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A17",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      435.67,
+      156,
+      489.46,
+      167
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-18.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A18",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      143.96,
+      268,
+      197.75,
+      279
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-19.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A19",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      216.89,
+      268,
+      270.68,
+      279
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-20.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A20",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      289.81,
+      268,
+      343.61,
+      279
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-21.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A21",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      362.74,
+      268,
+      416.54,
+      279
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-22.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 12,
+    "sample_id": "A22",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      435.67,
+      268,
+      489.46,
+      279
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-23.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A23",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      143.96,
+      424,
+      197.75,
+      435
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-24.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A24",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      216.89,
+      424,
+      270.68,
+      435
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-25.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A25",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      289.81,
+      424,
+      343.61,
+      435
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-26.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A26",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      362.74,
+      424,
+      416.54,
+      435
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-27.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A27",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      435.67,
+      424,
+      489.46,
+      435
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-28.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A28",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      143.96,
+      548,
+      197.75,
+      559
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-29.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A29",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      216.89,
+      548,
+      270.68,
+      559
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-30.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A30",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      289.81,
+      548,
+      343.61,
+      559
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-31.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A31",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      362.74,
+      548,
+      416.54,
+      559
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-32.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A32",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      435.67,
+      548,
+      489.46,
+      559
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-33.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A33",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      143.96,
+      592,
+      197.75,
+      604
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-34.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A34",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      216.89,
+      592,
+      270.68,
+      604
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-35.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A35",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      289.81,
+      592,
+      343.61,
+      604
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-36.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A36",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      362.74,
+      592,
+      416.54,
+      604
+    ]
+  },
+  {
+    "path": "assets/multimodal/audio-37.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 31,
+    "figure": 13,
+    "sample_id": "A37",
+    "kind": "printed waveform",
+    "crop_pdf_points": [
+      435.67,
+      592,
+      489.46,
+      604
+    ]
+  },
+  {
+    "path": "assets/method/reconstruction.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 4,
+    "figure": 2,
+    "panel": "reconstruction",
+    "cropPDFPoints": [
+      108,
+      77,
+      229,
+      202
+    ]
+  },
+  {
+    "path": "assets/method/self-distillation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 4,
+    "figure": 2,
+    "panel": "self-distillation",
+    "cropPDFPoints": [
+      234,
+      77,
+      370,
+      202
+    ]
+  },
+  {
+    "path": "assets/method/contrastive.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 4,
+    "figure": 2,
+    "panel": "contrastive",
+    "cropPDFPoints": [
+      385,
+      77,
+      506,
+      202
+    ]
+  },
+  {
+    "path": "assets/method/inference.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 2,
+    "figure": 1,
+    "cropPDFPoints": [
+      306,
+      186,
+      502,
+      311
+    ]
+  },
+  {
+    "path": "assets/audio/A13.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A13.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "184ae03058c02d446ae2f538ff0fe48ffb92fa8c",
+    "sha256": "5720f4abf0dcb50afaaade8bfa21205809a67860c28e4374f15f0fd6a160ddc6",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0121__unconditional_0121",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "ocean waves, wind",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A13",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A13.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A14.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A14.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "0f909837553b5122390354a20b089a91b1ae2fc0",
+    "sha256": "f070358279c27c46b028ed424461501e3ea7578fc1806009e64dec9a474770c6",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0130__unconditional_0130",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "canine howling",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A14",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A14.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A15.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A15.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "de93bb249bdf95287b80d4bfb0354a7f0b481f8f",
+    "sha256": "a275452ad1f4db367f785a52951d4baf12965f9365aaaf09dd45aacce611e7cc",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0366__unconditional_0366",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "dogs barking",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A15",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A15.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A16.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A16.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "ca18cb11aa221bd158dbd0ade514fcad4ce8026e",
+    "sha256": "a400d46f96661737ed0d0d8b7007181637a8a70d851f790fa545b7349fd94b4a",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0380__unconditional_0380",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "dishes and cutlery",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A16",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A16.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A17.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A17.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "fac47e1617c2a4f3e745fd9b7aa49bd5bcd82769",
+    "sha256": "8cda4d483d192cb3c9f029d1bebc6567e9bf4bf3bfd42088a258e1e09ccc3e2b",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0186__unconditional_0186",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "wings flapping",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A17",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A17.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A18.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A18.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "c7d13a6feccb167398187babf850d586ed55fefb",
+    "sha256": "7dc14ca38521a47e0d29dd18024a4d06b870e32612d97988a084c311d6c06f6b",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0350__unconditional_0350",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "owl hooting",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A18",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A18.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A19.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A19.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "f40ed3371090fb450ecff9af985139d9499a59c1",
+    "sha256": "75fb853569f40150906edacc2180990dd2899b58802a79b7161b12eef65a8d59",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0052__unconditional_0052",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "speech, wind",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A19",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A19.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A20.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A20.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "5df0a98495ac19195b3e8bf5cb8ee35eb9987a03",
+    "sha256": "70a9e46424072d3d20e7ddf51be82b1189d787dd4acb0edec75b9bab0095370a",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0054__unconditional_0054",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "speech, hoofbeats",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A20",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A20.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A21.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A21.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "05606255980a47b1b086e6a03a256a8e900e099d",
+    "sha256": "67774c47196abee24c5789082224fd3ccb85ab041e24e19ab3c7246de1a8ce79",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0062__unconditional_0062",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "speech, hoofbeats",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A21",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A21.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A22.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A22.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "8efacabb426a3872bf017b0f0f1f259ddf842f26",
+    "sha256": "8107c1036989dc830a621824f4c77a1fd5ac3c210d40cce1a86685acfd579268",
+    "figure": 12,
+    "route": "unconditional",
+    "sample": "sample_0105__unconditional_0105",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "speech, footsteps",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A22",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 12",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A22.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A23.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A23.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "76a05dd21bb23d61aeac1a6ccf4ecd182899ef85",
+    "sha256": "2c8434da7125a6128d40632c693c13996dd5ede082609b958c13bacdbb59d958",
+    "figure": 13,
+    "route": "text_to_image+audio",
+    "sample": "sample_0387__447",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "sewing machine",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A23",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A23.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A24.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A24.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "ae48824bee4e759bd120dbddd17e0577ad9368ce",
+    "sha256": "3f67ec4a377c2c052ce8e90a3bbef8c0546f05682a295e10ff0dac3d0d15a673",
+    "figure": 13,
+    "route": "text_to_image+audio",
+    "sample": "sample_0455__508",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "fire-truck siren, speech",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A24",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A24.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A25.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A25.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "524597b5f22527ac877450989adc249f1bbc9977",
+    "sha256": "b868ff619cc1f6a1ec308fc6b8e787b9a139cbf323418dc1c7500ee5f74d4475",
+    "figure": 13,
+    "route": "text_to_image+audio",
+    "sample": "sample_0019__115",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "birds chirping, speech",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A25",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A25.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A26.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A26.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "7c5a467026d6c03e8dc69a6123dde47142cb5876",
+    "sha256": "47f7f6e16d99247283627266aa6c7d747a0cc6d89dcabeddab8d4547646f5184",
+    "figure": 13,
+    "route": "text_to_image+audio",
+    "sample": "sample_0057__15",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "aircraft engine",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A26",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A26.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A27.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A27.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "8b21788ac0b8d749f43078b86efece862b4a1fa9",
+    "sha256": "92e844349c31b32d2065f4bb233372a5dc5680ec98e0d60aa55928add03a8568",
+    "figure": 13,
+    "route": "text_to_image+audio",
+    "sample": "sample_0221__298",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "church bells ringing",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A27",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A27.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A28.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A28.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "149aee59c75b804a72889ce6288416c4bd4a89a5",
+    "sha256": "a20f962b67a9bab82a6552a6222f77e3a28ed8791e8f4053c5e44a1465ec1e10",
+    "figure": 13,
+    "route": "image_to_text+audio",
+    "sample": "sample_0037__131",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "bell ringing",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A28",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A28.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A29.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A29.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "367491472fdaebae4200ff5f989b528186bc596c",
+    "sha256": "a5ce8f9304444488e398183f3d1fa3e542bcecc580a78e0b58c43d666fb3bc71",
+    "figure": 13,
+    "route": "image_to_text+audio",
+    "sample": "sample_0066__158",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "thunder and rain",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A29",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A29.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A30.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A30.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "9d87626dab94994969cfe5f3af115d4b11a90a5b",
+    "sha256": "a3440190f81db3c8d40a4fd21a0fe33728994f3b449bfc624e69ec12a1aaa164",
+    "figure": 13,
+    "route": "image_to_text+audio",
+    "sample": "sample_0202__280",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "clock ticking",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A30",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A30.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A31.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A31.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "9868b79043d2e5395fd4bf7465ad13f8c6fe3155",
+    "sha256": "98f5be7ac2753780259d56c67d7925cd92363e0faca60763a10b0020e9c8aebb",
+    "figure": 13,
+    "route": "image_to_text+audio",
+    "sample": "sample_0481__531",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "keyboard typing",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A31",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A31.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A32.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A32.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "500a565876daad6acf7b9d6a422618b41e02c869",
+    "sha256": "5ab8f8382bb72ef83cf0f60ea421b1fbcba5cf8d57b63286a90bf68ed6aec2a4",
+    "figure": 13,
+    "route": "image_to_text+audio",
+    "sample": "sample_0189__269",
+    "role": "generated",
+    "method": "MUNITE",
+    "description": "toilet flushing",
+    "sample_rate_hz": 16000,
+    "duration_s": 5.12,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "generated",
+    "sample_id": "A32",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A32.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 5.12,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 333526
+  },
+  {
+    "path": "assets/audio/A33.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A33.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "72fd3fa292f56b66bd7e2f3d45906363225be6c4",
+    "sha256": "16c0e1b941167bf2fe521fb9c0f74d2c43f8bf4e85340382fb43f9c2fdb941b3",
+    "figure": 13,
+    "route": "audio_to_text+image",
+    "sample": "sample_0310__378",
+    "role": "observed",
+    "method": "dataset",
+    "description": "church bells ringing",
+    "sample_rate_hz": 16000,
+    "duration_s": 10,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "input",
+    "sample_id": "A33",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A33.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 10,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 645846
+  },
+  {
+    "path": "assets/audio/A34.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A34.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "134e56fc15bf8f50c9369e8ba5b32801a02f4a31",
+    "sha256": "fb0b79de5bffa6d283defaac30eca464b3e15bd1e54672823612ef2c502c769b",
+    "figure": 13,
+    "route": "audio_to_text+image",
+    "sample": "sample_0062__154",
+    "role": "observed",
+    "method": "dataset",
+    "description": "ducks quacking, speech",
+    "sample_rate_hz": 16000,
+    "duration_s": 9.180875,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "input",
+    "sample_id": "A34",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A34.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 9.18,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 593422
+  },
+  {
+    "path": "assets/audio/A35.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A35.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "6e3d292b3c6c35050c3fe960c78241231dbc6f0a",
+    "sha256": "6086b6a0b18bf6679bc156a6db16532aa61aa4cae3939e3bd39ce09c54583e63",
+    "figure": 13,
+    "route": "audio_to_text+image",
+    "sample": "sample_0245__319",
+    "role": "observed",
+    "method": "dataset",
+    "description": "speech, applause",
+    "sample_rate_hz": 16000,
+    "duration_s": 10,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "input",
+    "sample_id": "A35",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A35.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 10,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 645846
+  },
+  {
+    "path": "assets/audio/A36.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A36.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "d0e8eb640eff671e443aa160ede21d091d41e446",
+    "sha256": "7abc6ec5adf2508e07ce0c14dd091a6a965342203af206a00a977c559640febc",
+    "figure": 13,
+    "route": "audio_to_text+image",
+    "sample": "sample_0298__367",
+    "role": "observed",
+    "method": "dataset",
+    "description": "speech, guitar",
+    "sample_rate_hz": 16000,
+    "duration_s": 10,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "input",
+    "sample_id": "A36",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A36.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 10,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 645846
+  },
+  {
+    "path": "assets/audio/A37.wav",
+    "source": "32V/MUNITE",
+    "source_path": "supplementary/audio/A37.wav",
+    "source_commit": "a1265ab7801365a9ce9380bc66a561dd5ea2f450",
+    "git_blob_sha": "14e3e4e941d7a92b8cd54a7da0f7764ba1e2387a",
+    "sha256": "3cf4119d0b3347b93209b357f0746ea0e81f13eba6f2219249c493cebfac025f",
+    "figure": 13,
+    "route": "audio_to_text+image",
+    "sample": "sample_0118__204",
+    "role": "observed",
+    "method": "dataset",
+    "description": "frogs croaking",
+    "sample_rate_hz": 16000,
+    "duration_s": 10,
+    "processing": "Original WAV, no resampling or normalization",
+    "manifest_role": "input",
+    "sample_id": "A37",
+    "kind": "original WAV audio",
+    "page": 31,
+    "source_figure": "Figure 13",
+    "source_url": "https://github.com/32V/MUNITE/blob/a1265ab7801365a9ce9380bc66a561dd5ea2f450/supplementary/audio/A37.wav",
+    "metadata_source_path": "supplementary/audio/manifest.csv",
+    "description_source": "PaSST AudioSet label summaries in supplementary/audio/audio_tags.json",
+    "description_note": "Reading aid; neither a generated caption nor a literal transcript.",
+    "manifest_duration_s": 10,
+    "channels": 1,
+    "bits_per_sample": 32,
+    "wave_format_tag": 3,
+    "bytes": 645846
+  },
+  {
+    "path": "assets/fonts/dm-sans-400.woff2",
+    "source": "assets/fonts/dm-sans-400.ttf",
+    "kind": "lossless WOFF2 font conversion",
+    "license": "assets/fonts/DM-Sans-OFL.txt",
+    "tool": "FontTools 4.66.1",
+    "sha256": "2ea1bf6e4127eebf51f201e62bc23578f715f9581ddebd7f63ae46d275199e40"
+  },
+  {
+    "path": "assets/fonts/dm-sans-500.woff2",
+    "source": "assets/fonts/dm-sans-500.ttf",
+    "kind": "lossless WOFF2 font conversion",
+    "license": "assets/fonts/DM-Sans-OFL.txt",
+    "tool": "FontTools 4.66.1",
+    "sha256": "5db7ec8890b78af7db1b70a7a9a0872acc476a8fca50b40ba6c16b8e0fc15117"
+  },
+  {
+    "path": "assets/fonts/dm-sans-600.woff2",
+    "source": "assets/fonts/dm-sans-600.ttf",
+    "kind": "lossless WOFF2 font conversion",
+    "license": "assets/fonts/DM-Sans-OFL.txt",
+    "tool": "FontTools 4.66.1",
+    "sha256": "fd6f63245e24082f4f0d9c76840e50c87834769af1711c0caccb7cebd61fc4fc"
+  },
+  {
+    "path": "assets/fonts/dm-sans-700.woff2",
+    "source": "assets/fonts/dm-sans-700.ttf",
+    "kind": "lossless WOFF2 font conversion",
+    "license": "assets/fonts/DM-Sans-OFL.txt",
+    "tool": "FontTools 4.66.1",
+    "sha256": "9b1a44756787bbc9fdbfbaeea5b3f6a8fcf1df426c0d6f8456bd5591a08a35a9"
+  },
+  {
+    "path": "assets/ffhq/sample-1-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 10–14",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im13",
+      "xref": 593,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "dc3ba9676e95be565a03ff11bec5b08d4077ce8b8d02bd73f96b58f8f73cd128",
+    "source_decoded_rgb_sha256": "dc3ba9676e95be565a03ff11bec5b08d4077ce8b8d02bd73f96b58f8f73cd128",
+    "sha256": "e8510cdc2772da4c9e4b2bdcad80c64143e8ab5c652b3945755b17c9e6824924",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-1-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 10–14",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im14",
+      "xref": 594,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "e43e61a0d9cf37c176a243b32f288aee55b401cc09a4c15ee1dce38b238ac5b9",
+    "source_decoded_rgb_sha256": "e43e61a0d9cf37c176a243b32f288aee55b401cc09a4c15ee1dce38b238ac5b9",
+    "sha256": "11d7d688f67b3e1664b2d54eafa8fa25ffef090aa3cb19a40b45bfb15f8d3286",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-1-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 10–14",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im15",
+      "xref": 595,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "cec189cf65ed81f4b840657969f14cb2b11161b0a65ecd44676eadaeb5722e8a",
+    "source_decoded_rgb_sha256": "cec189cf65ed81f4b840657969f14cb2b11161b0a65ecd44676eadaeb5722e8a",
+    "sha256": "ed9dd5c8c2de07d0ef586e33457037a321f70d07e91ae8edbc2a39ceededb26e",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-1-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 10–14",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im22",
+      "xref": 602,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "04be6cb43bfc5501750ba1463ed55efe449b66aab0948cbc3f178250d876f427",
+    "source_decoded_rgb_sha256": "04be6cb43bfc5501750ba1463ed55efe449b66aab0948cbc3f178250d876f427",
+    "sha256": "3061eeca49501997b4bfc073f2a01b1606f49f69c5d3aca51992fed78cf6079d",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-1-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 10–14",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im23",
+      "xref": 603,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "967e606668b6fd464bd793c3a7d2f1f1781c8665638032e2e99de6345b538f6d",
+    "source_decoded_rgb_sha256": "967e606668b6fd464bd793c3a7d2f1f1781c8665638032e2e99de6345b538f6d",
+    "sha256": "57be9efb4af092cf6b7da4d70f871b37c3679ef63f36ff6ad4e650a96cd6c4de",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-1-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 10–14",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im24",
+      "xref": 604,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "cfe54061f62271460dda2decb6582387267986b7753a5d0c0551e032166cbaec",
+    "source_decoded_rgb_sha256": "cfe54061f62271460dda2decb6582387267986b7753a5d0c0551e032166cbaec",
+    "sha256": "e80f163844e7fe80dc1add6447e73dac622848cc9bd405973a3ebe62faed5767",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-3-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im37",
+      "xref": 617,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "c7c95523e76367dc5dba7e238938ff0d7166fb5c2d17c9e3dfa8813732ccdd77",
+    "source_decoded_rgb_sha256": "c7c95523e76367dc5dba7e238938ff0d7166fb5c2d17c9e3dfa8813732ccdd77",
+    "sha256": "17460825432f587281644d0cc8c247028371bdc6314f3957b93745743c93588e",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-3-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im38",
+      "xref": 618,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "36f653fff5180d205b318b01be829c6195b51667933ee0849f2feb1c70584eab",
+    "source_decoded_rgb_sha256": "36f653fff5180d205b318b01be829c6195b51667933ee0849f2feb1c70584eab",
+    "sha256": "141a24678afc695537260fd177e710ad9076950dd8ad2b494bb7080045334b5a",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-3-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im39",
+      "xref": 619,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "6c0e1e064875d022237a60b7382a06b5218ca4261a6acc310263b9740c56041d",
+    "source_decoded_rgb_sha256": "6c0e1e064875d022237a60b7382a06b5218ca4261a6acc310263b9740c56041d",
+    "sha256": "de38a67000ecd5e7bc69705f0490913f9a36dcc5b0eb29ba8d6ccca2d8f8993c",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-3-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im46",
+      "xref": 626,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "4c8969496f7f153deffc80246afca2d7c42e254cea1e41a196bc317b030480c8",
+    "source_decoded_rgb_sha256": "4c8969496f7f153deffc80246afca2d7c42e254cea1e41a196bc317b030480c8",
+    "sha256": "6b2ac32db8ee665ddb8669649a7419ad552ebae57d754b5ea2e61311af6cc1e9",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-3-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im47",
+      "xref": 627,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "5c479a0827d4a512148438b8f8439c12b27b5c2875b85d4b14a35d2fd5e508e2",
+    "source_decoded_rgb_sha256": "5c479a0827d4a512148438b8f8439c12b27b5c2875b85d4b14a35d2fd5e508e2",
+    "sha256": "e045e19c4123c656e9a0e0586ca73f3323a809ff40f21aff1f8ffc1eff69bd35",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-3-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 20–29",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im48",
+      "xref": 628,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "8f8c06aa9d84f89beb678ea78f1135b7d30cecb5a850c7bb181ef8a639d5ec38",
+    "source_decoded_rgb_sha256": "8f8c06aa9d84f89beb678ea78f1135b7d30cecb5a850c7bb181ef8a639d5ec38",
+    "sha256": "3992752a687ccd0f75c976d9714bf220972e14dd625feeea77efe4b761d58e1e",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-4-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 40–49",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im49",
+      "xref": 629,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "48b54b97f96da265b01827c19926911090a72da12a652fa8f49f01e598507c3b",
+    "source_decoded_rgb_sha256": "48b54b97f96da265b01827c19926911090a72da12a652fa8f49f01e598507c3b",
+    "sha256": "3f59e45793be53c85879d3b02d988bb5e54d2c0187839cb8414b4e62a24fa741",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-4-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 40–49",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im50",
+      "xref": 630,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "ec1cb8355e07ef00e6dfd596d65aabe481d40994c2bcff65bef649b066ef33f0",
+    "source_decoded_rgb_sha256": "ec1cb8355e07ef00e6dfd596d65aabe481d40994c2bcff65bef649b066ef33f0",
+    "sha256": "cf75883f916678d0c8ead86a02a1c541f00776fcba39f458f3466053990feb7b",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-4-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 40–49",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im51",
+      "xref": 631,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "9fa91600c750aca5b486757413195f47cb98e1c13ece89917af67ae0c92f8892",
+    "source_decoded_rgb_sha256": "9fa91600c750aca5b486757413195f47cb98e1c13ece89917af67ae0c92f8892",
+    "sha256": "625d753c8ae0d860452de682f553e135c149dfe88f4f51a6d18f08a318bc8ddd",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-4-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 40–49",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im58",
+      "xref": 638,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "3c7ccd4ac16a64c38672f16b4b34d79e34fdd30740a88cdc1a5b1ecb58595590",
+    "source_decoded_rgb_sha256": "3c7ccd4ac16a64c38672f16b4b34d79e34fdd30740a88cdc1a5b1ecb58595590",
+    "sha256": "d68698a51688ab221a509eb711b69fe21ec5d68ade094d3d1eae2e7a8dfc9504",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-4-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 40–49",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im59",
+      "xref": 639,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "b3f9c8fe8696a7411c3d8ae6e75c212893be12d184f1e100044e374ea693bb94",
+    "source_decoded_rgb_sha256": "b3f9c8fe8696a7411c3d8ae6e75c212893be12d184f1e100044e374ea693bb94",
+    "sha256": "4e16e86b2c67830b85e6a5b1d7ec2d4dd47345981aa870a5c4c6341f2d971d0a",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-4-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Female, 40–49",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im60",
+      "xref": 640,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "adcac2bea1a5af304a4d7f1943f579d3734c0c4610412394d355e90fb3e6e8f2",
+    "source_decoded_rgb_sha256": "adcac2bea1a5af304a4d7f1943f579d3734c0c4610412394d355e90fb3e6e8f2",
+    "sha256": "24bfb7871701cbe247572102963c014c720b60bc97280f04be987c01b6feb933",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-6-muni-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 50–69",
+    "method": "muni",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im73",
+      "xref": 653,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "7a652e5b5aa4d29b14b3222dfb4a46b0a170411d9916478852deccc24b53a9ae",
+    "source_decoded_rgb_sha256": "7a652e5b5aa4d29b14b3222dfb4a46b0a170411d9916478852deccc24b53a9ae",
+    "sha256": "e306e7c783571acb5ae1a76a3359f2bcebb25a34db01bc013c226e1fdbc9d7d0",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-6-muni-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 50–69",
+    "method": "muni",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im74",
+      "xref": 654,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "a269b57a403903395925120a2246ca5df72493fb2bd08731406abf63fb28ec7a",
+    "source_decoded_rgb_sha256": "a269b57a403903395925120a2246ca5df72493fb2bd08731406abf63fb28ec7a",
+    "sha256": "4826445143ba4a74432ad849b8eabe24a8da0fe41e2508534cee94ef52a3f2c2",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-6-muni-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 50–69",
+    "method": "muni",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im75",
+      "xref": 655,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "dd6cc87abea4e6d4a9d914a52e67f104b9a317e4c05d4aada5fdf8ba3bb2705c",
+    "source_decoded_rgb_sha256": "dd6cc87abea4e6d4a9d914a52e67f104b9a317e4c05d4aada5fdf8ba3bb2705c",
+    "sha256": "a43dcc3caadb79817ab4db5551b8772766ddd16039bff6794d371252a586413a",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-6-munite-rgb.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 50–69",
+    "method": "munite",
+    "modality": "rgb",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im82",
+      "xref": 662,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "0d16511d777830394531a0183a67df3d6cee00ceb64c8b26adf4ff596d4f38b4",
+    "source_decoded_rgb_sha256": "0d16511d777830394531a0183a67df3d6cee00ceb64c8b26adf4ff596d4f38b4",
+    "sha256": "85213e25ba38b2d3ff9cc170c5234149542c47ef99da7cfd1804f5f85de98c3a",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-6-munite-segmentation.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 50–69",
+    "method": "munite",
+    "modality": "segmentation",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im83",
+      "xref": 663,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "1d95960788078ad8a353bd8db6082d20b55cf025fdbb385ca7e9740de00a63f2",
+    "source_decoded_rgb_sha256": "1d95960788078ad8a353bd8db6082d20b55cf025fdbb385ca7e9740de00a63f2",
+    "sha256": "06a52cd04d78285e184a1c50bbb4250fa98e2e6d72dc8b07c9b9e91c9e71e706",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/ffhq/sample-6-munite-normals.webp",
+    "source": "MUNITE_submission.pdf",
+    "page": 28,
+    "figure": 9,
+    "conditioning": "Male, 50–69",
+    "method": "munite",
+    "modality": "normals",
+    "source_image_object": {
+      "resource_path": "/Im9 -> /Im84",
+      "xref": 664,
+      "generation": 0,
+      "color_space": "DeviceRGB",
+      "bits_per_component": 8,
+      "pdf_filter": "FlateDecode"
+    },
+    "display_raster_dimensions_px": [
+      192,
+      192
+    ],
+    "model_grid_dimensions_px": [
+      64,
+      64
+    ],
+    "pixel_repetition": [
+      3,
+      3
+    ],
+    "encoding": "lossless WebP (VP8L)",
+    "decoded_rgb_sha256": "76b23d7e1228d6b73c942fb636e671d136cc8c012ba01581712b4ff99b7665a5",
+    "source_decoded_rgb_sha256": "76b23d7e1228d6b73c942fb636e671d136cc8c012ba01581712b4ff99b7665a5",
+    "sha256": "71cb32dd88d82f13a6ea79a45ca411e5977149f6bab09faba98c5fe652210ac9",
+    "processing": "Lossless WebP encoding of the original PDF display raster."
+  },
+  {
+    "path": "assets/waveforms/A13.svg",
+    "source": "assets/audio/A13.wav",
+    "related_paths": [
+      "assets/audio/A13.wav"
+    ],
+    "source_sha256": "5720f4abf0dcb50afaaade8bfa21205809a67860c28e4374f15f0fd6a160ddc6",
+    "sha256": "a1fff099d3971ea4b258ac6dcf84f6c66d64143df9af3fe3e34c58f86ae6ea13",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A14.svg",
+    "source": "assets/audio/A14.wav",
+    "related_paths": [
+      "assets/audio/A14.wav"
+    ],
+    "source_sha256": "f070358279c27c46b028ed424461501e3ea7578fc1806009e64dec9a474770c6",
+    "sha256": "e826042440a6eac11da5b727250013877ca6a780cf18d6c42b6e4428a65d9cb8",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A15.svg",
+    "source": "assets/audio/A15.wav",
+    "related_paths": [
+      "assets/audio/A15.wav"
+    ],
+    "source_sha256": "a275452ad1f4db367f785a52951d4baf12965f9365aaaf09dd45aacce611e7cc",
+    "sha256": "56a6891ac3138fb404065f4ceb2b00e5cd24270c3d2d06afb4d07cf6ee02ff04",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A16.svg",
+    "source": "assets/audio/A16.wav",
+    "related_paths": [
+      "assets/audio/A16.wav"
+    ],
+    "source_sha256": "a400d46f96661737ed0d0d8b7007181637a8a70d851f790fa545b7349fd94b4a",
+    "sha256": "3a9825fb1de4d4665b7e63e57fa48ded573b2f13838502794a5b2ec0c5465e73",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A17.svg",
+    "source": "assets/audio/A17.wav",
+    "related_paths": [
+      "assets/audio/A17.wav"
+    ],
+    "source_sha256": "8cda4d483d192cb3c9f029d1bebc6567e9bf4bf3bfd42088a258e1e09ccc3e2b",
+    "sha256": "91ea1e71f84c3f22fde386027ee95e3d6f8e8937648c77a3263da4fcc47ade42",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A18.svg",
+    "source": "assets/audio/A18.wav",
+    "related_paths": [
+      "assets/audio/A18.wav"
+    ],
+    "source_sha256": "7dc14ca38521a47e0d29dd18024a4d06b870e32612d97988a084c311d6c06f6b",
+    "sha256": "ffa58fb63a6d49c19786ec7a3e650b7b8aea123637c1e090c84ef20df357bbce",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A19.svg",
+    "source": "assets/audio/A19.wav",
+    "related_paths": [
+      "assets/audio/A19.wav"
+    ],
+    "source_sha256": "75fb853569f40150906edacc2180990dd2899b58802a79b7161b12eef65a8d59",
+    "sha256": "ea3ff5ca000480d53b34283387931eb3d6f2690df3c69eb3286c7f59f83f3aa1",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A20.svg",
+    "source": "assets/audio/A20.wav",
+    "related_paths": [
+      "assets/audio/A20.wav"
+    ],
+    "source_sha256": "70a9e46424072d3d20e7ddf51be82b1189d787dd4acb0edec75b9bab0095370a",
+    "sha256": "aa350b9c089482eea8e82f78d24a948a3a6db46f25afb031326be6c9d3b5b636",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A21.svg",
+    "source": "assets/audio/A21.wav",
+    "related_paths": [
+      "assets/audio/A21.wav"
+    ],
+    "source_sha256": "67774c47196abee24c5789082224fd3ccb85ab041e24e19ab3c7246de1a8ce79",
+    "sha256": "b200329b7b87344e1466a3a7b78b97c8679081e56f84fecb213a520d17939b16",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A22.svg",
+    "source": "assets/audio/A22.wav",
+    "related_paths": [
+      "assets/audio/A22.wav"
+    ],
+    "source_sha256": "8107c1036989dc830a621824f4c77a1fd5ac3c210d40cce1a86685acfd579268",
+    "sha256": "aed8c7477bea9b63249871d00b38c24b75216f658f4c74c2b99a555a3582af9b",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A23.svg",
+    "source": "assets/audio/A23.wav",
+    "related_paths": [
+      "assets/audio/A23.wav"
+    ],
+    "source_sha256": "2c8434da7125a6128d40632c693c13996dd5ede082609b958c13bacdbb59d958",
+    "sha256": "4fdb438f0f2a0210acff7d214ca4295762c5ef033aa678c960e28e893ca2998e",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A24.svg",
+    "source": "assets/audio/A24.wav",
+    "related_paths": [
+      "assets/audio/A24.wav"
+    ],
+    "source_sha256": "3f67ec4a377c2c052ce8e90a3bbef8c0546f05682a295e10ff0dac3d0d15a673",
+    "sha256": "e16b22bc66519a254f7177953ea4b30279d43a71d9a14bfb2ec2da2f3f559feb",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A25.svg",
+    "source": "assets/audio/A25.wav",
+    "related_paths": [
+      "assets/audio/A25.wav"
+    ],
+    "source_sha256": "b868ff619cc1f6a1ec308fc6b8e787b9a139cbf323418dc1c7500ee5f74d4475",
+    "sha256": "235efb011b6d49e506084ab9525be80bc7ecca61cb67c1054417a0baa6621b72",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A26.svg",
+    "source": "assets/audio/A26.wav",
+    "related_paths": [
+      "assets/audio/A26.wav"
+    ],
+    "source_sha256": "47f7f6e16d99247283627266aa6c7d747a0cc6d89dcabeddab8d4547646f5184",
+    "sha256": "df0a6c01cf601e54bc9b36a7dae20711743d30fc67f28234bdf24e734129c10d",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A27.svg",
+    "source": "assets/audio/A27.wav",
+    "related_paths": [
+      "assets/audio/A27.wav"
+    ],
+    "source_sha256": "92e844349c31b32d2065f4bb233372a5dc5680ec98e0d60aa55928add03a8568",
+    "sha256": "b3da3d445ffbf5b7ed4742b85963b1000ee8bd47385b8c60fc0b9a66e86d147a",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A28.svg",
+    "source": "assets/audio/A28.wav",
+    "related_paths": [
+      "assets/audio/A28.wav"
+    ],
+    "source_sha256": "a20f962b67a9bab82a6552a6222f77e3a28ed8791e8f4053c5e44a1465ec1e10",
+    "sha256": "333c13ff334e35864ab12e0fcbd5ea01e0ed7f877fd0e4ca72d7de0eaa3cf8ea",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A29.svg",
+    "source": "assets/audio/A29.wav",
+    "related_paths": [
+      "assets/audio/A29.wav"
+    ],
+    "source_sha256": "a5ce8f9304444488e398183f3d1fa3e542bcecc580a78e0b58c43d666fb3bc71",
+    "sha256": "4c6e3840a20c7eec36778564bba601a62afb559302f63d3e917c6bb97db27fd7",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A30.svg",
+    "source": "assets/audio/A30.wav",
+    "related_paths": [
+      "assets/audio/A30.wav"
+    ],
+    "source_sha256": "a3440190f81db3c8d40a4fd21a0fe33728994f3b449bfc624e69ec12a1aaa164",
+    "sha256": "4e07aee4f03ed1ea009330a345c89abc5a00508c25449efafa26a69b17cf3885",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A31.svg",
+    "source": "assets/audio/A31.wav",
+    "related_paths": [
+      "assets/audio/A31.wav"
+    ],
+    "source_sha256": "98f5be7ac2753780259d56c67d7925cd92363e0faca60763a10b0020e9c8aebb",
+    "sha256": "a71b113d1a80d40e054b634c0bef94e7371c65d4c6b07de566a69a53f71df8e2",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A32.svg",
+    "source": "assets/audio/A32.wav",
+    "related_paths": [
+      "assets/audio/A32.wav"
+    ],
+    "source_sha256": "5ab8f8382bb72ef83cf0f60ea421b1fbcba5cf8d57b63286a90bf68ed6aec2a4",
+    "sha256": "807f77295b9c552db14b9743f21fc049d595e3bc6b6c0fac411a87055e5f4183",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 5.12,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A33.svg",
+    "source": "assets/audio/A33.wav",
+    "related_paths": [
+      "assets/audio/A33.wav"
+    ],
+    "source_sha256": "16c0e1b941167bf2fe521fb9c0f74d2c43f8bf4e85340382fb43f9c2fdb941b3",
+    "sha256": "b8bf77e3abf6c0ee011a53ee65012a45b6a7f8b522d3704e24a93c0d6fd5a6d1",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 10,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A34.svg",
+    "source": "assets/audio/A34.wav",
+    "related_paths": [
+      "assets/audio/A34.wav"
+    ],
+    "source_sha256": "fb0b79de5bffa6d283defaac30eca464b3e15bd1e54672823612ef2c502c769b",
+    "sha256": "9e5cfec30c987d5462f15b424aa5c1fb02ef35745effd8509b7098e6cb54c282",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 9.180875,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A35.svg",
+    "source": "assets/audio/A35.wav",
+    "related_paths": [
+      "assets/audio/A35.wav"
+    ],
+    "source_sha256": "6086b6a0b18bf6679bc156a6db16532aa61aa4cae3939e3bd39ce09c54583e63",
+    "sha256": "e84f6060c7955c9094294fff292e149bd58e8fa4511d9c33c4a00bc96a06e3cc",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 10,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A36.svg",
+    "source": "assets/audio/A36.wav",
+    "related_paths": [
+      "assets/audio/A36.wav"
+    ],
+    "source_sha256": "7abc6ec5adf2508e07ce0c14dd091a6a965342203af206a00a977c559640febc",
+    "sha256": "f3c4aeb7618f200da54d0deabb5e5d660a3ecd1f74a23907c729ca134281f5b4",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 10,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  },
+  {
+    "path": "assets/waveforms/A37.svg",
+    "source": "assets/audio/A37.wav",
+    "related_paths": [
+      "assets/audio/A37.wav"
+    ],
+    "source_sha256": "3cf4119d0b3347b93209b357f0746ea0e81f13eba6f2219249c493cebfac025f",
+    "sha256": "9fd39faa20ea6ff2e1188be95459e62f21001ea29ec81b601433c7a8d79ae18d",
+    "encoding": "Self-contained SVG peak envelope",
+    "duration_seconds": 10,
+    "bins": 128,
+    "processing": "All float32 audio frames included in equal-time windows. Maximum absolute amplitude per window, normalized linearly to the clip peak; source audio unchanged. No smoothing, compression or minimum amplitude."
+  }
+]
