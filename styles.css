@@ -1925,7 +1925,6 @@ html:has(.image-dialog[open]) {
 }
 
 /* Footer. */
-/* The empty citation is ready for the final, published BibTeX entry. */
 .citation-section {
   margin-top: var(--section-gap);
 }
@@ -1944,11 +1943,6 @@ html:has(.image-dialog[open]) {
   font-size: 22px;
   line-height: 1.3;
   letter-spacing: -0.02em;
-}
-.citation-heading p {
-  color: var(--muted);
-  font-size: 13px;
-  line-height: 1.5;
 }
 .citation-code {
   min-height: 128px;

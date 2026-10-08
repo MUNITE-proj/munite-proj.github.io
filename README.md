@@ -4,6 +4,8 @@ Project website for **Unified Multimodal Latent Inference for Any-to-Any Multimo
 
 Kyeongmin Yeo and Minhyuk Sung · KAIST
 
+[Project page](https://munite-proj.github.io/) · [Paper](https://arxiv.org/pdf/2610.09866) · [arXiv](https://arxiv.org/abs/2610.09866)
+
 ## Development
 
 Requires Node.js 20 or later.
